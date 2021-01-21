@@ -1,0 +1,13 @@
+axes.linewidth : 0.8
+axes.labelsize : 8
+
+xtick.labelsize : 6
+ytick.labelsize : 6
+xtick.direction: out
+ytick.direction: out
+
+legend.borderpad : 0.2
+legend.handletextpad : 0
+legend.columnspacing : 0
+legend.fontsize : 5
+legend.labelspacing : 0.1

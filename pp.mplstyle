@@ -7,7 +7,7 @@ xtick.direction: out
 ytick.direction: out
 
 legend.borderpad : 0.2
-legend.handletextpad : 0.1
+legend.handletextpad : 0.4
 legend.columnspacing : 0.1
 legend.fontsize : 5
 legend.labelspacing : 0.1

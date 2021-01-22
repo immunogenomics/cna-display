@@ -12,3 +12,5 @@ legend.columnspacing : 0.1
 legend.fontsize : 5
 legend.labelspacing : 0.1
 legend.handlelength : 0.7
+
+figure.dpi : 2000

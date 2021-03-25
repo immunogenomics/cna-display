@@ -8,7 +8,7 @@ qqprops = {
 
 umapprops = {
     'edgecolors':'none',
-    's':2,
+    's':0.1,
     'rasterized':True
 }
 
